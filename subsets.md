@@ -1,1 +1,3 @@
-# Solution to the Problem Subsets
+#Definition
+####Problem [Subsets](http://www.lintcode.com/en/problem/subsets/)
+
