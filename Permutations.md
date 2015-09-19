@@ -21,7 +21,7 @@ Example
 Do it without recursion.
 
 #### Solution
-1. Recursive Solution
+####Recursive Solution
 
         class Solution {
             /**
@@ -58,3 +58,11 @@ Do it without recursion.
             }
         }
 
+#### Iterative
+
+Loop through the array, in each iteration, a new number is added to different locations of results of previous iteration. Start from an empty List.
+
+class Solution{
+        
+
+}
