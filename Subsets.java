@@ -1,9 +1,4 @@
-There are two ways to solve the problem
-1. Recursive (DFS + Backtracking)
-2. Iterative 
 
-1. 
-<
 class Solution {
     /**
      * @param S: A set of numbers.
