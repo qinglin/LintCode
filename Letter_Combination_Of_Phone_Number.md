@@ -69,3 +69,7 @@ added to the results ArrayList
 #### Test Case
 1. "" -> {}
 2. "2" -> {"a","b","c"}
+
+#### Chanllenge 
+Solve it without recursion
+[Help!](http://www.lifeincode.net/programming/leetcode-letter-combinations-of-a-phone-number-java/)
